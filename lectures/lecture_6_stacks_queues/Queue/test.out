@@ -1,0 +1,15 @@
+queue is empty? true
+operation: queue.offer(1)
+queue is empty? false
+front now is: 1
+operation: queue.offer(2)
+front now is: 1
+operation: queue.offer(3)
+front now is: 1
+operation: queue.poll()
+front now is: 2
+checking whether queue.peek().equals(1): false
+operation: queue.poll()
+front now is: 3
+operation: queue.poll()
+front now is: null

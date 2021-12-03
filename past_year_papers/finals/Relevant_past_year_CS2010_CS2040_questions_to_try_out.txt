@@ -1,0 +1,14 @@
+2011-12-S1-WQ2 = Section 4
+2011-12-S-Final = Section 3, 4
+2012-13-S1-WQ1 = Section 3,4,5
+2012-13-S1-WQ2 = Section 3,4
+2013-14-S1-WQ2 = Section 2,3.1,3.2
+2013-14-S1-Final = Section 2 (except Q5), 3, 4.1
+2014-15-S1-WQ1 = Section 2, 3 (Q2 and Q3. You can skip Q1)
+2015-16-S1-WQ1 = Everything
+2015-16-S1-WQ2 = Everything
+OK 2015-16-S1-Final = Analysis,C.1 to C.3,D
+OK 2017-18-S1-WQ1 = Everything 
+OK 2017-18-S1-WQ2 = Everything
+OK 2019-20-S1-Final = Everything
+OK 2020-21-S1-Final = Everything
